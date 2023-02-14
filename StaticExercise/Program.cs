@@ -9,11 +9,11 @@
 
             Console.WriteLine("**********");
 
-            var c1 = new CarLot();
+            var c1 = new Car();
             Console.WriteLine(CarLot.numberOfCars);
-            var c2 = new CarLot();
+            var c2 = new Car();
             Console.WriteLine(CarLot.numberOfCars);
-            var c3 = new CarLot();
+            var c3 = new Car();
             Console.WriteLine(CarLot.numberOfCars);
         }
     }
